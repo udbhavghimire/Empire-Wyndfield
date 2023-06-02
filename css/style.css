@@ -218,6 +218,10 @@
             height: 50px;
         }
         
+        .fotwidth {
+            max-inline-size: 450px;
+        }
+        
         @media (min-width: 1024px) {
             #hero {
                 background-attachment: fixed;
