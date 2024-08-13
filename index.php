@@ -342,9 +342,10 @@
                         details. not intended to solicit those under contract with another brokerage. All inquiries will
                         go to Tony Ning, Broker - Meta Realty Inc </span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none">
-                        <p class="">
-                            Website designed by <a href="https://www.sixdesign.ca/" target="_blank"
-                                class="text-dark text-decoration-none"><strong>SixDesign.</strong> </a>
+                        <p class=" fw-bold">
+                            <a href="https://condomonk.ca/brantford " target="_blank "
+                                class="text-dark text-decoration-none ">
+                                <strong>Pre construction homes in Brampton</strong> </a>
                         </p>
 
                     </div>
@@ -377,9 +378,9 @@
             </div>
 
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
-                <p class="">
-                    Website designed by <a href="https://www.sixdesign.ca/" target="_blank"
-                        class="text-dark text-decoration-none"><strong>SixDesign.</strong> </a>
+                <p class=" fw-bold">
+                    <a href="https://condomonk.ca/brantford " target="_blank " class="text-dark text-decoration-none ">
+                        <strong>Pre construction homes in Brampton</strong> </a>
                 </p>
 
             </div>

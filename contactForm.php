@@ -20,7 +20,7 @@ $mail->SMTPSecure = 'tls'; // Enable TLS encryption, `ssl` also accepted
 $mail->Port = 587; // TCP port to connect to
 
 $mail->setFrom('info@empire-wynfield.ca', $_POST['name']);
-$mail->addAddress('milan@homebaba.ca');
+$mail->addAddress('contact@homebaba.ca');
 
 $mail->addReplyTo($_POST['email']);
 $mail->isHTML(true);
