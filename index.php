@@ -339,8 +339,7 @@
                     <span class=" justifyy">
                         We do not represent the builder. All renderings, incentives, pricing are subject to terms &
                         conditions and may change at anytime without notice – see sales representatives for more
-                        details. not intended to solicit those under contract with another brokerage. All inquiries will
-                        go to Tony Ning, Broker - Meta Realty Inc </span>
+                        details. not intended to solicit those under contract with another brokerage. </span>
                     <div class="list pt-md-5 pt-3 d-md-block d-none">
                         <p class=" fw-bold">
                             <a href="https://condomonk.ca/brantford " target="_blank "
