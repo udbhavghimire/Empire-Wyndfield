@@ -345,7 +345,7 @@
                         <p class=" fw-bold">
                             <a href="https://condomonk.ca/brantford " target="_blank "
                                 class="text-dark text-decoration-none ">
-                                <strong>Pre construction homes in Brampton</strong> </a>
+                                <strong>Pre construction homes in Brantford</strong> </a>
                         </p>
 
                     </div>
@@ -380,7 +380,7 @@
             <div class="list mt-5 pt-5 d-md-none d-block center-sm">
                 <p class=" fw-bold">
                     <a href="https://condomonk.ca/brantford " target="_blank " class="text-dark text-decoration-none ">
-                        <strong>Pre construction homes in Brampton</strong> </a>
+                        <strong>Pre construction homes in Brantford</strong> </a>
                 </p>
 
             </div>
